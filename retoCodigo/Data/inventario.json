@@ -1,0 +1,49 @@
+{
+  "comics": [
+    {
+      "id": "comic-001",
+      "titulo": "The Amazing Spider-Man",
+      "numeroEdicion": 1,
+      "autor": "Stan Lee",
+      "editorial": "Marvel Comics",
+      "fechaPublicacion": "1963-03-01",
+      "superheroesRelacionados": ["heroe-001", "heroe-003"]
+    },
+    {
+      "id": "comic-002",
+      "titulo": "Batman: Year One",
+      "numeroEdicion": 404,
+      "autor": "Frank Miller",
+      "editorial": "DC Comics",
+      "fechaPublicacion": "1987-02-01",
+      "superheroesRelacionados": ["heroe-002"]
+    },
+    {
+      "id": "comic-003",
+      "titulo": "X-Men: Days of Future Past",
+      "numeroEdicion": 141,
+      "autor": "Chris Claremont",
+      "editorial": "Marvel Comics",
+      "fechaPublicacion": "1981-01-01",
+      "superheroesRelacionados": ["heroe-004", "heroe-005"]
+    },
+    {
+      "id": "comic-004",
+      "titulo": "Iron Man: Extremis",
+      "numeroEdicion": 1,
+      "autor": "Warren Ellis",
+      "editorial": "Marvel Comics",
+      "fechaPublicacion": "2005-11-01",
+      "superheroesRelacionados": ["heroe-006"]
+    },
+    {
+      "id": "comic-005",
+      "titulo": "Wonder Woman: Rebirth",
+      "numeroEdicion": 1,
+      "autor": "Greg Rucka",
+      "editorial": "DC Comics",
+      "fechaPublicacion": "2016-08-01",
+      "superheroesRelacionados": ["heroe-007"]
+    }
+  ]
+}

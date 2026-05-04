@@ -1,0 +1,178 @@
+{
+  "heroes": [
+    {
+      "id": "heroe-001",
+      "nombre": "Spider-Man",
+      "descripcion": "Peter Parker, un joven fotógrafo mordido por una araña radiactiva que le otorgó poderes extraordinarios. Protector de Nueva York con el lema: un gran poder conlleva una gran responsabilidad.",
+      "superpoderes": [
+        "poder-001",
+        "poder-002",
+        "poder-003"
+      ],
+      "editorial": "Marvel Comics"
+    },
+    {
+      "id": "heroe-002",
+      "nombre": "Batman",
+      "descripcion": "Bruce Wayne, millonario de Gotham City que presenció el asesinato de sus padres y juró combatir el crimen. Usa tecnología avanzada y entrenamiento físico excepcional sin poderes sobrenaturales.",
+      "superpoderes": [
+        "poder-004",
+        "poder-005",
+        "poder-006"
+      ],
+      "editorial": "DC Comics"
+    },
+    {
+      "id": "heroe-003",
+      "nombre": "Iron Man",
+      "descripcion": "Tony Stark, genio millonario e inventor que construyó una armadura de alta tecnología para escapar de sus captores. Fundador y miembro clave de los Vengadores.",
+      "superpoderes": [
+        "poder-006",
+        "poder-007",
+        "poder-008"
+      ],
+      "editorial": "Marvel Comics"
+    },
+    {
+      "id": "heroe-004",
+      "nombre": "Wolverine",
+      "descripcion": "Logan, mutante con huesos recubiertos de adamantium y garras retráctiles. Posee una capacidad de regeneración casi ilimitada y siglos de experiencia en combate.",
+      "superpoderes": [
+        "poder-009",
+        "poder-010",
+        "poder-011"
+      ],
+      "editorial": "Marvel Comics"
+    },
+    {
+      "id": "heroe-005",
+      "nombre": "Cyclops",
+      "descripcion": "Scott Summers, líder de los X-Men con la capacidad de disparar rayos de energía cinética por sus ojos. Debe usar un visor especial para controlar su poder.",
+      "superpoderes": [
+        "poder-012",
+        "poder-005"
+      ],
+      "editorial": "Marvel Comics"
+    },
+    {
+      "id": "heroe-006",
+      "nombre": "Thor",
+      "descripcion": "Dios nórdico del trueno e hijo de Odín. Empuña el martillo Mjolnir y defiende tanto Asgard como la Tierra de amenazas cósmicas.",
+      "superpoderes": [
+        "poder-013",
+        "poder-014",
+        "poder-015"
+      ],
+      "editorial": "Marvel Comics"
+    },
+    {
+      "id": "heroe-007",
+      "nombre": "Wonder Woman",
+      "descripcion": "Diana Prince, princesa amazona de Themyscira y embajadora de la paz. Dotada con dones de los dioses olímpicos y entrenada como la guerrera más poderosa de las amazonas.",
+      "superpoderes": [
+        "poder-015",
+        "poder-016",
+        "poder-017",
+        "poder-005"
+      ]
+    },
+    {
+      "id": "heroe-008",
+      "nombre": "Spaw",
+      "descripcion": "Militar asesinado y paso a ser un vengador fantasma",
+      "superpoderes": [
+        "poder-001",
+        "poder-002",
+        "poder-003"
+      ],
+      "editorial": "Marvel Comics"
+    }
+  ],
+  "superpoderes": [
+    {
+      "id": "poder-001",
+      "nombre": "Trepar paredes",
+      "descripcion": "Capacidad de adherirse y escalar cualquier superficie vertical u horizontal sin equipo adicional."
+    },
+    {
+      "id": "poder-002",
+      "nombre": "Sentido de araña",
+      "descripcion": "Percepción extrasensorial que alerta al portador sobre peligros inminentes una fracción de segundo antes de que ocurran."
+    },
+    {
+      "id": "poder-003",
+      "nombre": "Lanzar telarañas",
+      "descripcion": "Habilidad para producir y disparar redes de seda resistente usadas para moverse, atrapar enemigos o crear estructuras."
+    },
+    {
+      "id": "poder-004",
+      "nombre": "Intelecto detective",
+      "descripcion": "Capacidad analítica y deductiva superior que permite resolver crímenes y anticipar las acciones del enemigo."
+    },
+    {
+      "id": "poder-005",
+      "nombre": "Combate cuerpo a cuerpo experto",
+      "descripcion": "Dominio de múltiples artes marciales y técnicas de combate que hacen al portador un luchador de élite."
+    },
+    {
+      "id": "poder-006",
+      "nombre": "Tecnología avanzada",
+      "descripcion": "Acceso y creación de dispositivos tecnológicos muy superiores a los disponibles en el mercado convencional."
+    },
+    {
+      "id": "poder-007",
+      "nombre": "Vuelo propulsado",
+      "descripcion": "Capacidad de volar a alta velocidad mediante propulsores integrados en la armadura."
+    },
+    {
+      "id": "poder-008",
+      "nombre": "Rayos repulsores",
+      "descripcion": "Emisión de haces de energía de alta intensidad desde las palmas o el pecho capaces de destruir estructuras."
+    },
+    {
+      "id": "poder-009",
+      "nombre": "Factor de curación",
+      "descripcion": "Regeneración celular acelerada que permite recuperarse de heridas graves en cuestión de minutos u horas."
+    },
+    {
+      "id": "poder-010",
+      "nombre": "Garras de adamantium",
+      "descripcion": "Tres garras retráctiles por mano fabricadas del metal más resistente conocido, capaces de cortar casi cualquier material."
+    },
+    {
+      "id": "poder-011",
+      "nombre": "Sentidos sobrehumanos",
+      "descripcion": "Vista, olfato y oído muy superiores a los humanos, permitiendo rastrear objetivos a grandes distancias."
+    },
+    {
+      "id": "poder-012",
+      "nombre": "Rayos ópticos de energía",
+      "descripcion": "Emisión de poderosos haces de energía cinética a través de los ojos, controlados mediante un visor especial."
+    },
+    {
+      "id": "poder-013",
+      "nombre": "Control del trueno y el rayo",
+      "descripcion": "Capacidad de invocar y dirigir tormentas eléctricas, rayos y vientos de gran magnitud."
+    },
+    {
+      "id": "poder-014",
+      "nombre": "Mjolnir",
+      "descripcion": "Martillo mágico que solo puede ser levantado por quien sea digno. Permite el vuelo y amplifica los poderes de su portador."
+    },
+    {
+      "id": "poder-015",
+      "nombre": "Fuerza sobrehumana",
+      "descripcion": "Fuerza física muy por encima de los límites humanos, capaz de levantar estructuras de varias toneladas."
+    },
+    {
+      "id": "poder-016",
+      "nombre": "Lazo de la verdad",
+      "descripcion": "Arma mágica que obliga a cualquier persona atada con ella a decir la verdad y obedecer órdenes."
+    },
+    {
+      "id": "poder-017",
+      "nombre": "Vuelo",
+      "descripcion": "Capacidad de volar a grandes velocidades sin ayuda de dispositivos mecánicos."
+    }
+  ]
+}
