@@ -1,31 +1,21 @@
-// Definición de una clase base (interfaz)
 class Animal {
-  hablar() {
-    throw new Error("La función hablar() debe ser implementada en las clases derivadas.");
+  constructor(nombre, tipo, alimentacion) {
+    this.nombre = nombre,
+    this.tipo = tipo,
+    this.alintacion = alimentacion
   }
+
+   comer(){
+      console.log(`El anima ${this.nombre} del tipo ${this.tipo} come solo ${this.alintacion}`)
+    }
 }
 
-// Clases derivadas
+
 class Perro extends Animal {
-  hablar() {
-    return "¡Guau!";
+  constructor(raza, nombre, tipo, alimentacion){
+    super(nombre, tipo, alimentacion)
+    this.raza = raza
   }
 }
-
-class Gato extends Animal {
-  hablar() {
-    return "¡Miau!";
-  }
-}
-
-// Función que usa polimorfismo
-function hacerHablar(animal) {
-  if (animal instanceof Animal) console.log(animal.hablar());
-  else  console.log("Este no es un animal válido.")
-}
-
-const miPerro = new Perro()
-const miGato = new Gato()
-
-hacerHablar(miPerro) // Imprime "¡Guau!"
-hacerHablar(miGato)  // Imprime "¡Miau!"
+const miPerro = new Perro("Golden","Lulu","Vertebrado","carne")
+miPerro.comer()
