@@ -1,1 +1,0 @@
-print("Logi v3")
