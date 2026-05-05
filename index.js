@@ -19,3 +19,4 @@ class Perro extends Animal {
 }
 const miPerro = new Perro("Golden","Lulu","Vertebrado","carne")
 miPerro.comer()
+console.log("hola mundo");
